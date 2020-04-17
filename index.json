@@ -1,7 +1,8 @@
 {
 	"list":[
 
-{ "type": "launcher", "title": "BatMon", "file": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/file/BatMon.tar.gz", "shots": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/shots/BatMon.png" }
+{ "type": "launcher", "title": "BatMon", "file": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/file/BatMon.tar.gz", "shots": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/shots/BatMon.png" },
+{ "type": "launcher", "title": "MVGE", "file": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/MVGE/file/MVGE.tar.gz", "shots": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/MVGE/shots/MVGE.png" },
 ]
 
 }
