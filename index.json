@@ -1,7 +1,7 @@
 {
 	"list":[
-{"title":"2019 GAME JAM","file":"https://raw.githubusercontent.com/clockworkpi/warehouse/master/2019%20GAME%20JAM/index.json","type":"dir"},
-{"title":"GameJam 19q4","file":"https://raw.githubusercontent.com/clockworkpi/warehouse/master/GameJam%2019q4/index.json","type":"dir"}
+
+{ "type": "launcher", "title": "BatMon", "file": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/file/BatMon.tar.gz", "shots": "https://raw.githubusercontent.com/Mihaylov93/warehouse/master/BatMon/shots/BatMon.png" }
 ]
 
 }
